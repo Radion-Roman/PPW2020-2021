@@ -1,0 +1,105 @@
+body{
+	font-family: PT Mono;
+}
+
+section{
+	height: 970px;
+
+	border: 1px solid red;
+}
+.container-fluid{
+	margin:0;
+	padding: 0;
+}
+
+
+.bgl{
+
+	height: 970px;
+	border: 1px solid blue;
+	background: url("../img/RHGround/Dk4 3.png")no-repeat;
+}
+.bghome{
+
+	height: 970px;
+	border: 1px solid green;
+	background: url("../img/BackGround/BGHome.png")no-repeat;
+}
+.bgr{
+
+height: 970px;
+	border: 1px solid blue;
+	background: url("../img/RHGround/Dk4 4.png")no-repeat;
+}
+
+h1{
+	height: 88px;
+
+	border: 1px solid black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	text-align: center;
+}
+.r2{
+	margin-top: 112px !important;
+}
+.video{
+	height: 80px;
+
+		background: url("../img/Click/Click Видео off.png")no-repeat;
+	border: 1px solid #333333;
+	box-sizing: border-box;
+	border-radius: 2px;
+
+}
+
+.video:hover{
+
+	background: url("../img/Click/Click Видео on.png")no-repeat;
+	border: 1px solid green;
+}
+.read{
+	height: 80px;
+
+	background: url("../img/Click/Click Чтение off.png")no-repeat;
+	border: 1px solid #333333;
+	box-sizing: border-box;
+	border-radius: 2px;
+
+}
+.read:hover{
+
+	background: url("../img/Click/Click Чтение on.png")no-repeat;
+	border: 1px solid green;
+}
+
+
+.map{
+	height: 80px;
+
+	background: url("../img/Click/Click Карта off.png")no-repeat;
+	border: 1px solid #333333;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+.map:hover{
+
+	background: url("../img/Click/Click Карта on.png")no-repeat;
+	border: 1px solid green;
+}
+
+
+.miph{
+	height: 80px;
+	background: url("../img/Click/Click Мифы off.png")no-repeat;
+	border: 1px solid #333333;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+
+.miph:hover{
+
+	background: url("../img/Click/Click Мифы on.png");
+	border: 1px solid green;
+}
