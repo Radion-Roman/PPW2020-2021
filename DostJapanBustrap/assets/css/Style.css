@@ -3,10 +3,10 @@ body{
 }
 
 section{
-	height: 970px;
-
-	border: 1px solid red;
+	height: 100vh;
 }
+
+
 .container-fluid{
 	margin:0;
 	padding: 0;
@@ -15,27 +15,28 @@ section{
 
 .bgl{
 
-	height: 970px;
-	border: 1px solid blue;
+	height: 100vh;
+
 	background: url("../img/RHGround/Dk4 3.png")no-repeat;
 }
 .bghome{
 
-	height: 970px;
-	border: 1px solid green;
+
+	height: 100vh;
+
 	background: url("../img/BackGround/BGHome.png")no-repeat;
 }
 .bgr{
 
-height: 970px;
-	border: 1px solid blue;
+	height: 100vh;
+
 	background: url("../img/RHGround/Dk4 4.png")no-repeat;
 }
 
 h1{
 	height: 88px;
 
-	border: 1px solid black;
+
 	font-style: normal;
 	font-weight: normal;
 	font-size: 39px;
